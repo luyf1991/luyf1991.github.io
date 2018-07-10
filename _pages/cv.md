@@ -20,7 +20,7 @@ Education
 
 
 
-Work experience
+<Work experience>
 ======
 * Summer 2015: Research Assistant
   * Github University
