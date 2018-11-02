@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://ruixie7.github.io/files/Rui_Xie_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -19,7 +19,7 @@ Education
 
 
 
-
+<!---
 <Work experience>
 ======
 * Summer 2015: Research Assistant
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
