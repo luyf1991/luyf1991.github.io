@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://ruixie7.github.io/files/Rui_Xie_CV.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
