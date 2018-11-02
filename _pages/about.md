@@ -54,6 +54,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-9769-8131) pages, or download my [CV](/files/Rui_Xie_CV) for the latest updates. I also write a blog to share my experiences in research.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-9769-8131) pages, or download my [CV](/files/Rui_Xie_CV.pdf) for the latest updates. I also write a blog to share my experiences in research.
 <!---More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
