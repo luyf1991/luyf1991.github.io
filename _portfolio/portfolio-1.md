@@ -1,6 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Leverage-based Sampling Paradigms on Streaming Time Series Data"
+excerpt: "Sequential leveraging block sampling for streaming autoregressive process
+
+An online leverage-based sequential block sampling algorithm for streaming time series data is proposed.
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
