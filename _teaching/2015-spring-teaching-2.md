@@ -1,20 +1,19 @@
 ---
-title: "Under Construction"
+title: "Guest Lecture"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Guest Lecture"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University of Georgia"
+date: 2018-08-15
+location: "Athen, GA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I also gave guest lectures for various undergraduate and graduate level courses, including the undergraduate seminar on big data analytics, time series analysis and statistical applications in big data analytics and cyber-physical systems.
 
-Heading 1
-======
+# Graduate Courses
+* SCSEE 8300, Principles of Cyber-Physical Systems Fall 2017
+* STAT 6280, Multivariate Time Series Analysis Spring 2015
 
-Heading 2
-======
-
-Heading 3
-======
+# Undergraduate Courses
+* FYOS 1001, First-Year Odyssey Seminars Fall 2017
+* STAT 4280, Applied Time Series Analysis Spring 2016 
