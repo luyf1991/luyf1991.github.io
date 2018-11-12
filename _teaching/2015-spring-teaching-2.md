@@ -2,7 +2,7 @@
 title: "Guest Lecture"
 collection: teaching
 type: "Guest Lecture"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of Georgia"
 date: 2018-08-15
 location: "Athen, GA, USA"
