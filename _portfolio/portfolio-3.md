@@ -1,9 +1,7 @@
 ---
 title: "Online Decentralized Leverage Score Sampling for Streaming Multidimensional Time Series"
-excerpt: "**Online decentralized leverage score sampling for streaming multidimensional time series**.  
-
-We propose a *leverage score sampling* (LSS) method for efficient online inference of the streaming vector autoregressive (VAR) model.
-<br/><img src='/images/topology.png'><br/><img src='/images/ellipse.png'>"
+excerpt: "We propose a *leverage score sampling* (LSS) method for efficient online inference of the streaming vector autoregressive (VAR) model.
+<br/><img src='/images/figure_paper2.png'><br/>"
 collection: portfolio
 ---
 
