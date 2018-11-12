@@ -2,14 +2,13 @@
 title: "Optimal $L_q$ norm regularization for sparse reflectivity inversion"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In order to directly obtain the reflectivity series from seismic data, we develop an advanced reflectivity inversion method. The choice between L1 and L2 norm minimization is always difficult for the conventional reflectivity inversion methods, which also require the selection of regularization terms. The proposed method adopts Lq norm (0 < q < 1) minimization and optimal regularization parameter selection. In the beginning, we discuss the validity of the non-convex constraint, and the advantage of the Lq norm constraint. Then we briefly introduce the optimal regularization parameter selection based on cross-validation.The performance of the proposed method in the synthetic examples with different noise levels shows that the inverted results are reasonable in the cases with moderate noises. In the end, a field example from the Barnett Shale proves the effectiveness of the proposed method.'
+date: 2017-09-27
+paperurl: 'https://library.seg.org/doi/abs/10.1190/segam2017-17666814.1'
+citation: 'Li, Fangyu, Rui Xie, Wenzhan Song, Tao Zhao, and Kurt Marfurt. "Optimal Lq norm regularization for sparse reflectivity inversion." In SEG Technical Program Expanded Abstracts 2017, pp. 677-681. Society of Exploration Geophysicists, 2017.  [Bibtex](http://academicpages.github.io/files/li2017optimal.bib)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Li_Fangyu_SEG_2017_reflectivity_5page.pdf)
 
-Recommended citation: Li, Fangyu, Rui Xie, Wenzhan Song, Tao Zhao, and Kurt Marfurt. "Optimal Lq norm regularization for sparse reflectivity inversion." In SEG Technical Program Expanded Abstracts 2017, pp. 677-681. Society of Exploration Geophysicists, 2017.
+Recommended citation: Li, Fangyu, Rui Xie, Wenzhan Song, Tao Zhao, and Kurt Marfurt. "Optimal Lq norm regularization for sparse reflectivity inversion." In SEG Technical Program Expanded Abstracts 2017, pp. 677-681. Society of Exploration Geophysicists, 2017.  [Bibtex](http://academicpages.github.io/files/li2017optimal.bib)
