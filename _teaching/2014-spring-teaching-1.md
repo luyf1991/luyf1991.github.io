@@ -2,8 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
+type: "Teaching Assistant"
 venue: "University of Georgia, Department of Statistics"
-date: 2011-08-15
+date: 2011 to 2018
 location: "Athen, GA, USA"
 ---
 
