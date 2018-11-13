@@ -1,5 +1,5 @@
 ---
-title: "Optimal seismic reflectivity inversion: data-driven $\ell_p$-loss-$\ell_q$ -regularization sparse regression"
+title: "Optimal seismic reflectivity inversion: data-driven $l_p$-loss-$l_q$ -regularization sparse regression"
 collection: publications
 permalink: /publication/2019-01-01-paper-title-number-6
 excerpt: 'Our method adaptively adopts a $\ell_p$-loss-$\ell_q$-
