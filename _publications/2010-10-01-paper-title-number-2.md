@@ -2,7 +2,7 @@
 title: "Statistical Leveraging Methods in Big Data"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'we review the recent development of statistical leveraging methods.'
+excerpt: 'We review the recent development of statistical leveraging methods.'
 date: 2018-07-18
 venue: 'Handbook of Big Data Analytics'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-18284-1_3'
