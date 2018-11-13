@@ -2,7 +2,7 @@
 title: "Automated Predictive Big Data Analytics Using Ontology Based Semantics"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'We propose to use semantic technology to assist data analysts and data scientists in selecting appropriate modeling techniques and building specific models as well as the rationale for the techniques and models selected'
+excerpt: 'We propose to use semantic technology to assist data analysts and data scientists in selecting appropriate modeling techniques and building specific models as well as the rationale for the techniques and models selected.'
 date: 2015-10-01
 venue: 'International Journal of Big Data'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898823/'
