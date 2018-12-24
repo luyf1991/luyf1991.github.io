@@ -3,7 +3,7 @@ title: "Online Decentralized Leverage Score Sampling for Streaming Multidimensio
 collection: publications
 permalink: /publication/2019-04-16-paper-title-number-8
 excerpt: 'We propose a leverage score sampling (LSS) method for efficient online inference of the streaming vector autoregressive (VAR) model. We define the leverage score for the streaming VAR model so that the LSS method selects informative data points in real-time with statistical guarantees of parameter estimation efficiency. Moreover, our LSS method can be directly deployed in an asynchronous decentralized environment, e.g., a sensor network without a fusion center, and produce asynchronous consensus online parameter estimation over time.'
-<br/><img src='/images/figure_paper2.png'><br/>"
+<br/><img src='/images/figure_paper2.png'><br/>
 date: 2019-04-16
 venue: 'The 22nd International Conference on Artificial Intelligence and Statistics (AISTATS 2019)'
 paperurl: 'http://ruixie7.github.io/files/AISTAT2019_v3.pdf'
