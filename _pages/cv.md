@@ -11,9 +11,13 @@ redirect_from:
 
 [Download my CV](https://ruixie7.github.io/files/Rui_Xie_CV.pdf)
 
+Positions
+======
+* Assistant Professor of Statistics, University of Central Florida, 2019 - present
+
 Education
 ======
-* Ph.D in Statistics, University of Georgia, 2019 (expected)
+* Ph.D in Statistics, University of Georgia, 2019 
 * M.S. in Statistics, University of Georgia, 2016
 * M.S. in Statistics, Georgia Institute of Technology, 2013
 * B.S. in Physics, Xiamen University, China 2011
