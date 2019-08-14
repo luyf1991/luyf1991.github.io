@@ -1,19 +1,24 @@
 ---
 permalink: /
-title: "About me"
+title: "Rui (Ray) Xie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student at the [Big Data Analytics Lab](http://bigdata.uga.edu/) and Department of Statistics, University of Georgia. I am working with Professors [Ping Ma](http://malab.uga.edu/), [Wenxuan Zhong](https://faculty.franklin.uga.edu/wenxuan/) and [T.N. Sriram](http://www.stat.uga.edu/directory/people/tn-sriram). Prior starting my Ph.D., I obtained my master degree in Engineering Statistics from the H. Milton School of Industrial and Systems Engineering at Georgia Tech.
+Assitant Professor
 
+[Department of Statistics and Data science](https://sciences.ucf.edu/statistics/), University of Central Florida
+
+Office: Technology Commons II, 209K 
+<!---I am currently a Ph.D. student at the [Big Data Analytics Lab](http://bigdata.uga.edu/) and Department of Statistics, University of Georgia. I am working with Professors [Ping Ma](http://malab.uga.edu/), [Wenxuan Zhong](https://faculty.franklin.uga.edu/wenxuan/) and [T.N. Sriram](http://www.stat.uga.edu/directory/people/tn-sriram). Prior starting my Ph.D., I obtained my master degree in Engineering Statistics from the H. Milton School of Industrial and Systems Engineering at Georgia Tech.
+-->
 
 <!---This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 -->
 
-A data-driven sampling framework on streaming data
+A data-driven statistical learning framework on streaming data
 ======
 My main field of interest is the development of statistical sketching and sampling methods for large-scale streaming dependent data, and the methods I have developed have been applied to different fields ranging from streaming online learning and sampling, spatial pattern reconstruction with sketching, to decentralized computing. I collaborate across several disciplines outside statistics, including computer science, geophysics, electrical and computer engineering, mechanical engineering and neuroscience, on data science problems related to signal reconstruction and denoising using randomized sketching and sampling, large-scale data normalization, statistical machine learning for high dimensional data, learning algorithms for Internet of Things (IoT), etc. My solid training in statistics and mathematics, combined with extensive collaborative experience, allows me to work on data-driven, interdisciplinary-oriented and statistically challenging problems.
 
@@ -54,6 +59,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-9769-8131) pages, or download my [CV](https://ruixie7.github.io/files/Rui_Xie_CV.pdf) for the latest updates. I also write a blog to share my experiences in research.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-9769-8131) pages, or download my [CV](https://ruixie7.github.io/files/Rui_Xie_CV.pdf) for the latest updates.
 <!---More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
