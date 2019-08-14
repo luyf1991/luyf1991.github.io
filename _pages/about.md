@@ -9,7 +9,7 @@ redirect_from:
 ---
 Assistant Professor
 
-[Department of Statistics and Data science](https://sciences.ucf.edu/statistics/), University of Central Florida
+[Department of Statistics and Data Science](https://sciences.ucf.edu/statistics/), University of Central Florida
 
 Office: Technology Commons II, 209K 
 
