@@ -13,13 +13,14 @@ redirect_from:
 
 Positions
 ======
-* Manufacturing Engineer
+* Manufacturing Engineer, MedShape Inc.
 * Manufacturing Consultant
-
+* Product Design Engineer, , MedShape Inc.
+* Owner, DDM GA LLC
 Education
 ======
 * Ph.D in Mechanical Engineering, Georgia Institute of Technology, 2019 
-* B.S. in Mechanical Engineering, Georgia Institute of Technology, 2019
+* B.S. in Mechanical Engineering, Georgia Institute of Technology, 2015
 
 
 
