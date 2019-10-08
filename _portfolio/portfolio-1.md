@@ -1,6 +1,5 @@
 ---
 title: " "
-excerpt: "Developing theoretically justifiable and practically scalable methods for large **streaming dependent data** is the primary motivation for my research. 
-My research focuses on developing a series of **sampling methods** for temporal or spatial dependent data in the streaming data setting and the decentralized data acquisition environment. For statistical methodology, the techniques of *sequential analysis*, *online learning* and *decentralized optimization* have been integrated into my proposed sampling methods."
+excerpt: "My research focuses on developing intelligent algorithm to facilitate the signal processing algorithm and enhance the diagnostic and prognostic capability of the various faults in rotating machineries."
 collection: portfolio
 ---
