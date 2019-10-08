@@ -1,14 +1,12 @@
 ---
-title: "Optimal $L_q$ norm regularization for sparse reflectivity inversion"
+title: "Physics-Embedded Machine Learning: Case Study with Electrochemical Micro-Machining"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'We discuss the validity of the non-convex constraint, and the advantage of the $L_q$ norm constraint. Then we briefly introduce the optimal regularization parameter selection based on cross-validation.'
-date: 2017-09-27
-venue: '2017 SEG International Exposition and Annual Meeting'
-paperurl: 'https://library.seg.org/doi/abs/10.1190/segam2017-17666814.1'
-citation: 'Fangyu Li, Rui Xie, Wenzhan Song, Tao Zhao, and Kurt Marfurt. "Optimal Lq norm regularization for sparse reflectivity inversion." In SEG Technical Program Expanded Abstracts 2017, pp. 677-681. Society of Exploration Geophysicists, 2017.'
----
-In order to directly obtain the reflectivity series from seismic data, we develop an advanced reflectivity inversion method. The choice between $L_1$ and $L_2$ norm minimization is always difficult for the conventional reflectivity inversion methods, which also require the selection of regularization terms. The proposed method adopts $L_q$ norm ($0 < q < 1$) minimization and optimal regularization parameter selection. In the beginning, we discuss the validity of the non-convex constraint, and the advantage of the Lq norm constraint. Then we briefly introduce the optimal regularization parameter selection based on cross-validation. The performance of the proposed method in the synthetic examples with different noise levels shows that the inverted results are reasonable in the cases with moderate noises. In the end, a field example from the Barnett Shale proves the effectiveness of the proposed method.
+excerpt: 'We implemented physics embedded neural network to predict the process outcome of electrochemical drilling Process.'
+date: 2017-01-17
+venue: 'Machines'
+paperurl: 'https://www.mdpi.com/2075-1702/5/1/4'
 
-[Download paper here](http://ruixie7.github.io/files/Li_Fangyu_SEG_2017_reflectivity_5page.pdf)  
- [Bibtex](http://ruixie7.github.io/files/li2017optimal.bib)
+---
+Although intelligent machine learning techniques have been used for input-output modeling of many different manufacturing processes, these techniques map directly from the input process parameters to the outputs and do not take into consideration any partial knowledge available about the mechanisms and physics of the process. In this paper, a new approach is presented for taking advantage of the partial knowledge available about the mechanisms of the process and embedding it into the neural network structure. To validate the proposed approach, it is used to create a forward prediction model for the process of electrochemical micro-machining (μ-ECM). The prediction accuracy of the proposed approach is compared to the prediction accuracy of pure neural structure models with different structures and the results show that the Neural Network (NN) models with embedded knowledge have better prediction accuracy over pure NN models.
+
