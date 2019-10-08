@@ -15,7 +15,7 @@ Positions
 ======
 * Manufacturing Engineer, MedShape Inc.
 * Manufacturing Consultant
-* Product Design Engineer, , MedShape Inc.
+* Product Design Engineer, MedShape Inc.
 * Owner, DDM GA LLC.
 
 Education
