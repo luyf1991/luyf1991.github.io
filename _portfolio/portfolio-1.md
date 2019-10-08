@@ -4,6 +4,7 @@ excerpt: "My research focuses on developing intelligent algorithm to facilitate 
 
 collection: portfolio
 ---
+---
 title: "Adaptive online dictionary learning for bearing fault diagnosis"
 excerpt: "We embedded the weight least square algorithm into the dictionary learning algorithm to reduce the computation effort of the tradtional dictionary learning algorithm.
 collection: portfolio
