@@ -1,7 +1,6 @@
 ---
 title: "Adaptive online dictionary learning for bearing fault diagnosis"
 excerpt: "We embedded the weight least square algorithm into the dictionary learning algorithm to reduce the computation effort of the tradtional dictionary learning algorithm.
-<br/><img src='/images/fwi.png'>"
 collection: portfolio
 ---
 
