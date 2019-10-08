@@ -20,7 +20,7 @@ Positions
 
 Education
 ======
-* Ph.D in Mechanical Engineering, Georgia Institute of Technology, 2019 
+* Ph.D. in Mechanical Engineering, Georgia Institute of Technology, 2019 
 * B.S. in Mechanical Engineering, Georgia Institute of Technology, 2015
 
 
