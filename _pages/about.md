@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "Rui (Ray) Xie"
+title: "Yanfei Lu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Assistant Professor
+Simulation and Manufacturing Engineer
 
-[Department of Statistics and Data Science](https://sciences.ucf.edu/statistics/), University of Central Florida
+[MedShape Inc.](https://www.medshape.com)
 
-Office: Technology Commons II, 209K 
-
-[Google Scholar](https://scholar.google.com/citations?user=dYTCyDoAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=yoTCsUsAAAAJ)
 <!---I am currently a Ph.D. student at the [Big Data Analytics Lab](http://bigdata.uga.edu/) and Department of Statistics, University of Georgia. I am working with Professors [Ping Ma](http://malab.uga.edu/), [Wenxuan Zhong](https://faculty.franklin.uga.edu/wenxuan/) and [T.N. Sriram](http://www.stat.uga.edu/directory/people/tn-sriram). Prior starting my Ph.D., I obtained my master degree in Engineering Statistics from the H. Milton School of Industrial and Systems Engineering at Georgia Tech.
 -->
 
