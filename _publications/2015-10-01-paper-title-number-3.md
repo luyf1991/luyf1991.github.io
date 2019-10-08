@@ -1,14 +1,12 @@
 ---
-title: "Automated Predictive Big Data Analytics Using Ontology Based Semantics"
+title: "Prognosis of Bearing Degradation Using Gradient Variable Forgetting Factor RLS Combined With Time Series Model"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'We propose to use semantic technology to assist data analysts and data scientists in selecting appropriate modeling techniques and building specific models as well as the rationale for the techniques and models selected.'
-date: 2015-10-01
-venue: 'International Journal of Big Data'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898823/'
-citation: 'Nural, M. V., Cotterell, M. E., Peng, H., Xie, R., Ma, P., & Miller, J. A. (2015). Automated Predictive Big Data Analytics Using Ontology Based Semantics. International Journal of Big Data, 2(2), 43-56.'
----
-Predictive analytics in the big data era is taking on an ever increasingly important role. Issues related to choice on modeling technique, estimation procedure (or algorithm) and efficient execution can present significant challenges. For example, selection of appropriate and optimal models for big data analytics often requires careful investigation and considerable expertise which might not always be readily available. In this paper, we propose to use semantic technology to assist data analysts and data scientists in selecting appropriate modeling techniques and building specific models as well as the rationale for the techniques and models selected. To formally describe the modeling techniques, models and results, we developed the Analytics Ontology that supports inferencing for semi-automated model selection. The SCALATION framework, which currently supports over thirty modeling techniques for predictive big data analytics is used as a testbed for evaluating the use of semantic technology.
+excerpt: 'We implemented self adaptation algorithm to improve the traditional ARMA model.'
+date: 2018-02-01
+venue: 'IEEE-ACCESS'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8290841'
 
-[Download paper here](http://ruixie7.github.io/files/nihms886095.pdf)  
- [Bibtex](http://ruixie7.github.io/files/nural2015automated.bib)
+---
+Rolling element bearing is a critical component in many mechanical systems in view of its critical functionality. One of the major issues industries face today is the failure of bearings, which results in catastrophic consequences. Although various prognostic approaches were proposed for the degradation of bearings, the incapability of adaptation of those models yields inaccurate predictions under different running conditions of the bearings. To address this issue, this paper proposes a prognostic algorithm using the variable forgetting factor recursive least-square (VFF-RLS) combined with an auto-regressive and movingaverage (ARMA) model. The structure and parameters of ARMA model were initially determined using the vibrational data of the bearing without significant defect presented. During the bearing degradation process, the ARMA model makes predictions of the future degradation trend. Once the future acquired signal becomes available, the error between the acquired and predicted vibrational signal is calculated. The VFF-RLS algorithm uses the calculated error, correlation matrix and other parameters to update the coefficients of the ARMA model. In addition, the VFF-RLS algorithm updates the forgetting factor during each iteration to achieve faster convergence and reduced error. The updated ARMA model makes new predictions and the adaptive process continues. To demonstrate the applicability of adaptive prognosis methodology, the accuracy of the prediction of the proposed model is tested using experimental and simulated data in comparison with an auto-regressive integrated moving average (ARIMA) model without adaptation. Results show accurate predictions of the vibrational signal and degradation trend of the bearings over the ARIMA model.
+
