@@ -13,15 +13,14 @@ redirect_from:
 
 Positions
 ======
-* Assistant Professor of Statistics, University of Central Florida, 2019 - present
+* Manufacturing Engineer
+* Manufacturing Consultant
 
 Education
 ======
-* Ph.D in Statistics, University of Georgia, 2019 
-* M.S. in Statistics, University of Georgia, 2016
-* M.S. in Statistics, Georgia Institute of Technology, 2013
-* B.S. in Physics, Xiamen University, China 2011
-* B.S. in Quantitative Finance, Xiamen University, China 2011
+* Ph.D in Mechanical Engineering, Georgia Institute of Technology, 2019 
+* B.S. in Mechanical Engineering, Georgia Institute of Technology, 2019
+
 
 
 
@@ -33,10 +32,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
