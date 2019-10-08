@@ -13,7 +13,6 @@ Simulation and Manufacturing Engineer
 
 [DDM GA LLC](https://atlmachining.com)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=yoTCsUsAAAAJ)
 <!---I am currently a Ph.D. student at the [Big Data Analytics Lab](http://bigdata.uga.edu/) and Department of Statistics, University of Georgia. I am working with Professors [Ping Ma](http://malab.uga.edu/), [Wenxuan Zhong](https://faculty.franklin.uga.edu/wenxuan/) and [T.N. Sriram](http://www.stat.uga.edu/directory/people/tn-sriram). Prior starting my Ph.D., I obtained my master degree in Engineering Statistics from the H. Milton School of Industrial and Systems Engineering at Georgia Tech.
 -->
 
