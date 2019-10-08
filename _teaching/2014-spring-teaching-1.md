@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 type: "Instructor"
 venue: "Georgia Institute of Technology, Mechanical Engineering"
-date: 2018-8
+date: 2018-8-6
 location: "Atlanta, GA, USA"
 ---
 
