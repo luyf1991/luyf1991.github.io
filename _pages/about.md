@@ -60,6 +60,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=yoTCsUsAAAAJ) or [ORCiD](https://orcid.org/0000-0003-2063-8549) pages, or download my [CV](https://luyf1991.github.io/files/Yanfei_Lu_Resume_Github.pdf) for the latest updates.
+Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=yoTCsUsAAAAJ) or [ORCiD](https://orcid.org/0000-0003-2063-8549) pages, or download my [CV](https://github.com/luyf1991/luyf1991.github.io/blob/master/files/Yanfei_Lu_Resume_Github.pdf) for the latest updates.
 <!---More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
