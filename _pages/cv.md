@@ -13,8 +13,8 @@ redirect_from:
 
 Positions
 ======
+* Senior Mechanical Engineer, Forme Life
 * Manufacturing Engineer, MedShape Inc.
-* Manufacturing Consultant
 * Product Design Engineer, MedShape Inc.
 * Owner, DDM GA LLC.
 
