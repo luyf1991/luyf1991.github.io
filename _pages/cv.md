@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV](https://github.com/luyf1991/luyf1991.github.io/blob/master/files/Yanfei_Lu_Resume_Github.pdf)
+[Download my CV](https://luyf1991.github.io/files/Yanfei_Lu_Resume_Github.pdf)
 
 Positions
 ======
